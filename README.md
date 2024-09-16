@@ -1,6 +1,6 @@
 # analisis-fcd
 
-Repositorio con información del método schlieren por demodulación a cuadros (_fast checkerboard demodulations_) que implementamos para un proyecto de investigación.  
+Repositorio con información del método schlieren por demodulación a cuadros (_fast checkerboard demodulation_) que implementamos para un proyecto de investigación.  
 
 Código adaptado de: https://github.com/kaspervn/pyfcd, basado en: 
 
